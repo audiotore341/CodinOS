@@ -11,3 +11,6 @@ A OS Simulator.
 
 
 New Update Feb 26 2022!
+
+Please let me know some suggestions in the issues tab, please and
+thank you!
